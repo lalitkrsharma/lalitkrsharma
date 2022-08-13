@@ -1,5 +1,6 @@
 [![MasterHead](https://i.imgur.com/8r9wcVx.jpeg)]()
-<h1 align="center">Hi 👋, I'm Lalit Kumar Sharma</h1>
+<h1 align="center">Hello World_👋,
+   I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="Coding" width="370" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47g0dnmiw6bp900av99yv7iscx3uylbfoq9c2cxy7b&rid=giphy.gif&ct=g">
 
@@ -15,7 +16,7 @@
 
 - 📫 Here's my Gmail: **lalitkumarsharma.jsr@gmail.com**
 
-- 🎙🎮STUFF I LIKE🧬📊  : ** Singing, Gaming, Biology, Astro-Physics & Economics.**    
+- 🎙🎮STUFF I LIKE🧬📊  : **Singing, Gaming, Biology, Astro-Physics & Economics.**    
 
 
 <h3 align="left">Connect with me:</h3>
