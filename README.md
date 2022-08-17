@@ -33,8 +33,6 @@
 
 ![LeetCode_Stats](https://leetcard.jacoblin.cool/lalitkrsharma?theme=dark&font=Metrophobic&ext=activity)    
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lalitkrsharma&theme=dark&show_icons=true&locale=en" alt="lalitkrsharma" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkrsharma&theme=dark&show_icons=true&locale=en&layout=compact" alt="lalitkrsharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkrsharma&theme=dark&exclude_repo=Be-a-Ball,lalitkrsharma.github.io&hide=ShaderLab,HLSL,GLSL&show_icons=true&locale=en&layout=compact" alt="lalitkrsharma" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkrsharma&theme=dark" alt="lalitkrsharma" /></p>   
-  
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkrsharma&theme=dark" alt="lalitkrsharma" /></p>
