@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/8r9wcVx.jpeg)]()
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHGoAM8xR_8uw/profile-displaybackgroundimage-shrink_350_1400/0/1672482375662?e=1677715200&v=beta&t=g1e1DFcI1GczSyAEOmg4qjbWXu5-ROFATEbSkEPWP_k)]()
 <h1 align="center">Hello World_👋,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.✌</h3>
