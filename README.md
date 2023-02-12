@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHGoAM8xR_8uw/profile-displaybackgroundimage-shrink_350_1400/0/1672482375662?e=1677715200&v=beta&t=g1e1DFcI1GczSyAEOmg4qjbWXu5-ROFATEbSkEPWP_k)]()
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGW0hRe6j2L3g/profile-displaybackgroundimage-shrink_350_1400/0/1675963830101?e=1681948800&v=beta&t=vvguEk9Y5-DpR6YRu_31nHN9jKi_sX2hbI9o5kTbEZs)]()
 <h1 align="center">Hello World_👋,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.✌</h3>
