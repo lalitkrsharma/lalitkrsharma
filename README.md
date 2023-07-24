@@ -12,7 +12,7 @@
 
 - 👨‍💻 Checkout my <a href='https://lalitkrsharma.github.io/portfolio/'>**Portfolio**<a>
 
-- 🎓 Education: **B-Tech CSE degree course. 2023 Graduate.**
+- 🎓 Education: <a href='https://alumni.arkajainuniversity.ac.in/profile/2198216'>**B-Tech CSE Degree Program - 2023 Graduate.** </a>
 
 - 📫 Here's my Gmail: **lalitkumarsharma.jsr@gmail.com**
 
