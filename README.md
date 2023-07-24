@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEvAQkneDiWjA/profile-displaybackgroundimage-shrink_350_1400/0/1680444020138?e=1686182400&v=beta&t=Kytsw_5LAeRTEemHivOdDRNEEbqnFgTR5QFXnqIfo2o)
+![MasterHead](https://pbs.twimg.com/media/F0xAASTXgAAiMo8?format=jpg&name=4096x4096)
 <h1 align="center">Hello World_👋,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.✌</h3>
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkrsharma&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkrsharma" /> </p>
 <p align="left"> <a href="https://twitter.com/lalitkrsharma_" target="blank"><img src="https://img.shields.io/twitter/follow/lalitkrsharma_?logo=twitter&style=for-the-badge" alt="lalitkrsharma_" /></a> </p>
 
-- 🌱 I’m a <a href='https://www.coursera.org/account/accomplishments/specialization/AF3K7NFBJKCY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n'>**Machine Learning Engineer ** and a <a href='https://xrosfellowship.ficci.in/fellows'>**Game Developer**
+- 🌱 I’m a <a href='https://www.coursera.org/account/accomplishments/specialization/AF3K7NFBJKCY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n'>**Machine Learning Engineer** and a <a href='https://xrosfellowship.ficci.in/fellows'>**Game Developer**
 
 - 👨‍💻 Checkout my <a href='https://lalitkrsharma.github.io/portfolio/'>**Portfolio**<a>
 
