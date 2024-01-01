@@ -10,7 +10,7 @@
 
 - 🌱 I’m a <a href='https://www.coursera.org/account/accomplishments/specialization/AF3K7NFBJKCY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n'>**Machine Learning Engineer** </a> and a <a href='https://xrosfellowship.ficci.in/fellows'>**Game Developer**</a>
 
-- 👨‍💻 Find My Links on <a href='https://www.linktr.ee/lalitkrsharma'>**Linktree**<a>
+- 👨‍💻 Find My Links on <a href='https://www.linktr.ee/lalitkrsharma' target="_blank">**Linktree**<a>
 
 - 🎓 Education: <a href='https://alumni.arkajainuniversity.ac.in/profile/2198216'>**B-Tech CSE Degree Program - 2023 Graduate.** </a>
 
