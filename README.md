@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/F0xAASTXgAAiMo8?format=jpg&name=4096x4096)
+![MasterHead](https://cs12.pikabu.ru/post_img/2021/03/06/9/161503938115734937.jpg)
 <h1 align="center">Hello World_👋,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.✌</h3>
