@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/lalitkrsharma/lalitkrsharma/blob/main/Cover.png)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEdiHqDp3Q0yA/profile-displaybackgroundimage-shrink_350_1400/0/1704207364032?e=1709769600&v=beta&t=VqtHEspssfkLTIn0dfRTD68rJ6b7qfGN-u3CvYT6SGM)
 <h1 align="center">Hello World_👋,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A passionate Software Developer from India.✌</h3>
