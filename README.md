@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkrsharma&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkrsharma" /> </p>
 <p align="left"> <a href="https://twitter.com/lalitkrsharma_" target="blank"><img src="https://img.shields.io/twitter/follow/lalitkrsharma_?logo=twitter&style=for-the-badge" alt="lalitkrsharma_" /></a> </p>
 
-- I’m a <a href='https://www.coursera.org/account/accomplishments/specialization/AF3K7NFBJKCY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n'>**Machine Learning Engineer** </a> and a <a href='https://xrosfellowship.ficci.in/fellows#:~:text=Kritika%20Rah-,Lalit%20Kumar%20Sharma,-M%20Saud%20Siddiqui'>**Game Developer**</a>
+- 😎I’m a <a href='https://www.coursera.org/account/accomplishments/specialization/AF3K7NFBJKCY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n'>**Machine Learning Engineer** </a> and a <a href='https://xrosfellowship.ficci.in/fellows#:~:text=Kritika%20Rah-,Lalit%20Kumar%20Sharma,-M%20Saud%20Siddiqui'>**Game Developer**</a>
 
 - 👨‍💻 Find My Links on <a href='https://www.linktr.ee/lalitkrsharma' target="_blank">**Linktree**<a>
 
