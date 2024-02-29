@@ -16,7 +16,7 @@
 
 - 📫 Here's my Gmail: **lalitkumarsharma.jsr@gmail.com**
 
-- 🎙🎮STUFF I LIKE🧬📊  : **AI, Coding & Data Science**    
+- 🎙🎮Interests🧬📊 : **AI, Coding & Data Science**    
 
 
 <h3 align="left">Connect with me:</h3>
