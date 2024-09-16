@@ -2,7 +2,8 @@
 <h1 align="center">Hello World_👋🏼,
    I'm Lalit Kumar Sharma.</h1>
 <h3 align="center">A Passionate Software Developer from India.✌🏻👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="370" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47g0dnmiw6bp900av99yv7iscx3uylbfoq9c2cxy7b&rid=giphy.gif&ct=g">
+<!---<img align="right" alt="Coding" width="370" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47g0dnmiw6bp900av99yv7iscx3uylbfoq9c2cxy7b&rid=giphy.gif&ct=g">--->
+<img align="right" alt="Coding" width="370" src="https://drive.google.com/uc?export=download&id=1QkqJ5Wr55nISbbUj6WUhbgIU66WtB5N3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkrsharma&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkrsharma" /> </p>
