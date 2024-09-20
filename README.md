@@ -3,8 +3,9 @@
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A Passionate Software Developer from India.✌🏻👨🏻‍💻</h3>
 <!---<img align="right" alt="Coding" width="370" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47g0dnmiw6bp900av99yv7iscx3uylbfoq9c2cxy7b&rid=giphy.gif&ct=g">--->
+<a href="https://drive.google.com/file/d/1sw7TB2BYkkUKkk_MVtGlaHFygbd6jaX6/view?usp=sharing">
 <img align="right" alt="Coding" width="370" src="https://drive.google.com/uc?export=download&id=1QkqJ5Wr55nISbbUj6WUhbgIU66WtB5N3">
-
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkrsharma&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkrsharma" /> </p>
 <p align="left"> <a href="https://twitter.com/lalitkrsharma_" target="blank"><img src="https://img.shields.io/twitter/follow/lalitkrsharma_?logo=twitter&style=for-the-badge" alt="lalitkrsharma_" /></a> </p>
@@ -17,7 +18,7 @@
 
 - 📫 Here's my Gmail: **lalitkumarsharma.jsr@gmail.com**
 
-- 🎙🎮Interests & Badges🧬📊 : **Coding & Data Science**  | <a href='https://www.credly.com/users/lalitkrsharma' target="_blank">**Credly ID**</a>  
+- 🎙🎮Interests & Badges🧬📊 : **Coding & Data Science**  | <a href='https://www.credly.com/users/lalitkrsharma' target="_blank">**Credly ID**</a> | ---**Click**--->
 
 
 <h3 align="left">Connect with me:</h3>
