@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEdiHqDp3Q0yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704207364032?e=1732147200&v=beta&t=p7nZX75SDBMoNyI4WxLROZ5fnpFlGWHxUZRaFWV0Sas)
 <h1 align="center">Hello World_👋🏼,
-   I'm Lalit Kumar Sharma.</h1>
+   I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A Passionate Software Developer from India.✌🏻👨🏻‍💻</h3>
 <!---<img align="right" alt="Coding" width="370" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47g0dnmiw6bp900av99yv7iscx3uylbfoq9c2cxy7b&rid=giphy.gif&ct=g">--->
 <a href="https://drive.google.com/file/d/1sw7TB2BYkkUKkk_MVtGlaHFygbd6jaX6/view?usp=sharing" target="_blank">
