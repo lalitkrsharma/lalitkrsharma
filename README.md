@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEdiHqDp3Q0yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704207364032?e=1738195200&v=beta&t=8cDXWg7G4RLqtQ8uTpS42Rg4tdd6SpGv2qCRWijKbeg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEdiHqDp3Q0yA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704207364032?e=1744848000&v=beta&t=_jA7HEL2IE6YJQM8qfubcfQT5A52I9-CS7GbnjOLSWE)
 <h1 align="center">Hello World_👋🏼,
    I'm Lalit Kumar Sharma</h1>
 <h3 align="center">A Data-driven geek from India.✌🏻👨🏻‍💻</h3>
